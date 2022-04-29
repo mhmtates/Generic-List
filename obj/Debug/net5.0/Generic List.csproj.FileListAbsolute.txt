@@ -1,0 +1,16 @@
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\Generic List.exe
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\Generic List.deps.json
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\Generic List.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\Generic List.runtimeconfig.dev.json
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\Generic List.dll
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\ref\Generic List.dll
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\bin\Debug\net5.0\Generic List.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.dll
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\ref\Generic List.dll
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Generic List\obj\Debug\net5.0\Generic List.genruntimeconfig.cache
